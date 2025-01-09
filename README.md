@@ -1,2 +1,3 @@
 # whitehath-
-This is my first Repository
+This is my first Git Repository
+Abu Bakar Siddik Ripon
